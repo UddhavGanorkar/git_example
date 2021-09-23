@@ -1,2 +1,4 @@
 Hello , this is my first git example .
 And this is the first statement.
+
+This is the second statement.
